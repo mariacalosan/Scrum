@@ -15,10 +15,16 @@ pero este proceso les dificultaba mucho el poder  regresar a hacer al
 
 **¿Que es un manifiesto agil?**
 El manifiesto es la declaración del propósito más clara y concisa la cual maneja cuatro valores que son 
-- Individuos he interacciones -> Procesos y herramientas 
+
+- Individuos he interacciones -> Procesos y herramientas
+  (Valorar a las personas más que a los procesos, ya que las personas son las que impulsan el proceso al desarrollo)
+
 - Software funcionando -> Documentación completa
 - Colaboración del cliente -> Negociación de contrato 
 - Responder al cambio -> Seguir un plan 
+
+
+
 
 
 
