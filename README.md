@@ -63,6 +63,33 @@ Estos principios describen la cultura en la cual el cambio es bienvenido y el t
 
 12. **Retrospectiva**(Al final de cada sprint tú vas a atener una retrospectiva que te va a ayudar a que tu equipo mejore)
 
+# la agilidad en SCRUM
+*Cuando a muchos de nosotros nos preguntan, por agilidad siempre damos a entender que es la habilidad que tenemos para cambiar nuestro cuerpo a alguna posición, pero en el scrum es totalmente diferente la agilidad*
+
+### ¿Qué es la agilidad?
+La agilidad en el scrum es muy diferente, esta agilidad va más ligada con él trabaja colaborativo y las buenas prácticas del mismo dando le a si al cliente un aire de tranquilidad acerca de su producto servicio que está adquiriendo 
+
+# Marcos de gestión de proyectos ágil
+- **SCRUM** Este es un marco de trabajo flexible, pero tiene ciertas reglar que se deben de cumplir 
+
+**Reglas de SCRUM**
+1. No habrá modificación en los plazos de entrega
+2. Las acciones de cada sprint no serán modificadas
+3. Un elemento, una prioridad
+4. De cada sprint debe surgir un resultado parcial
+5. Las tareas sólo están listas cuando están listas
+
+- **Kanban** este es un sistema de targetas visuales que permite tener el flujo completo de un producto o servicio
+
+- **Devops**
+Es la abreviación de development y operaciones esto es cuando tenemos una empresa de infraestructura donde se organiza todo acerca de losservidores y área de desarrollo
+
+- **extreme programming** Es una práctica de desarrollo que está enfocada en maximizar los resultados
+
+- **Desing thinking** Esta nos sirve para idear soluciones y a partir de esas soluciones sacar un prototipo de producto o servicio 
+
+- **Lean** Esta nos ayuda a eficientar proceso y servicios 
+- **Lean change management** Esta es una práctica, marco de trabajo flexible que va a ayudar a gestionar estrategias de cambio para las empresas
 
 
 
