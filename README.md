@@ -96,7 +96,8 @@ Es la abreviación de development y operaciones esto es cuando tenemos
 
 hay dos conceptos lo cuales vamos a usar para llevar a cabo para todo tipo de procesos
 
-1. **Iterar** este concepto trata de que vamos a repetir un proceso varias veces con la intención de alcanzar una meta deseada, cuado llega al resultado de una iteración este después será usado como punto de inicio de la siguiente iteración
+1. **Iterar** este concepto trata de que vamos a repetir un proceso varias veces con la intención de alcanzar una meta 
+deseada, cuado llega al resultado de una iteración este después será usado como punto de inicio de la siguiente iteración
 
 en la metodología ágil se incluye la retrospectiva, esta trata de que en grupo  va a mirar la manera en la que se está llevando a cabo el trabajo buscando a si cada vez más la mejora continua y poder ser más productivos
 
