@@ -91,6 +91,21 @@ Es la abreviación de development y operaciones esto es cuando tenemos
 - **Lean** Esta nos ayuda a eficientar proceso y servicios 
 - **Lean change management** Esta es una práctica, marco de trabajo flexible que va a ayudar a gestionar estrategias de cambio para las empresas
 
+# Mejora continua
+*recordemos que la agilidad se basa en revisiones periódicas de las cuales nos vamos a ayudar para encontrar posibles problemas llegar a acuerdos soluciones y mejoras para a si seguir ofreciendo un mejor producto o servicio*
+
+hay dos conceptos lo cuales vamos a usar para llevar a cabo para todo tipo de procesos
+
+1. **Iterar** este concepto trata de que vamos a repetir un proceso varias veces con la intención de alcanzar una meta deseada, cuado llega al resultado de una iteración este después será usado como punto de inicio de la siguiente iteración
+
+en la metodología ágil se incluye la retrospectiva, esta trata de que en grupo  va a mirar la manera en la que se está llevando a cabo el trabajo buscando a si cada vez más la mejora continua y poder ser más productivos
+
+2. **Eficiencia y calidad** siempre se consiente de que entregas y como lo entregas procura estar siempre muy atento con los servicios que ofrecemos sean eficientes y de muy buena calidad para que nuestros clientes se encuentre satisfechos con los productos o servicio que le estemos ofreciendo 
+
+![mejora continua](https://www.ecured.cu/images/5/5d/MejoraContinua.JPG)
+
+
+
 
 
 
