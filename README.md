@@ -104,6 +104,21 @@ en la metodología ágil se incluye la retrospectiva, esta trata de q
 
 ![mejora continua](https://www.ecured.cu/images/5/5d/MejoraContinua.JPG)
 
+# Tres pilares que tiene scrum que soporta toda la implementación de los procesos
+
+![mejora continua](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Pilares.jpg)
+
+**Transparencia**
+
+Este trata de la visibilidad que se le debe de dar a todo lo que se esté trabajando debido aque  hay procesos muy  significativos los cuales deben de ser visibles para las personas que son responsables de los resultados del equipo
+
+**Adaptación**
+
+Este pilar trata de hacerlos ajustes necesarios en los procesos para a si ir minimizándola posibilidad de un  posible desvío en el  proceso
+
+**Inspeccion**
+
+Este trata de que cada  mejora que vaya surgiendo en el proceso debe de tener inspecciones muy frecuentemente para así ir llevando un control más a fondo de los procesos que se desean aplicar 
 
 
 
