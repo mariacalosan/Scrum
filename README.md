@@ -121,6 +121,34 @@ Este pilar trata de hacerlos ajustes necesarios en los procesos para 
 
 Este trata de que cada  mejora que vaya surgiendo en el proceso debe de tener inspecciones muy frecuentemente para así ir llevando un control más a fondo de los procesos que se desean aplicar 
 
+# Equipos auto-organizados
+Cuando hablamos de equipos autoorganizados nos referimos a esas personas con la capacidad deexpandir su zona de aprendizaje, ejercitar más sus habilidades  y facilitar mejores resultados en el proceso que se esté llevando, esto es fundamental para el scrum y los demás marcos de trabajo ágil, de hecho el manifiesto ágil incluye a los equipos de autorrealización como un principio clave debido a que los mejores diseños, arquitecturas y requisitos surgen de los equipos autoorganizados, al permitir que losequipos se autoorganicen se les está encomendando que se haga cargo de los problemas que surgen mientras resuelven su trabajo 
+
+# Como saber si scrum es el camino correcto para la realización de mis proyectos
+Para ello hay dos preguntas que nos debemos de formular que nos puede servir para tomar la mejor decisión  
+
+```¿Con qué frecuencia la parte interesada va a afectar  su desarrollo?```
+
+```¿Con cuántas personas cuento para el desarrollo del proyecto?```
+
+Cuando resuelvas estas dos preguntas nos podemos detener para analizar si scrum es el marco de trabajo que podemos usar en el proyecto. 
+
+## scrum
+es una herramienta que se utiliza para organizar el trabajo en piezas pequeñas
+y organizada las cuales se pueden completar en un periodo de tiempo determinado o variable,
+ese periodo de tiempo es utilizado para
+- **Planificar**
+- **Organizar**
+- **Administrar**
+- **Optimizar un determinado problema**
+
+# Trabajo en equipo
+## Desventajas
+- **El conformismo**
+- **Tiempo**
+- **Lento**
+
+
 
 
 
