@@ -173,7 +173,7 @@ Es muy importante tener en cuenta que todos los equipos pasaran por estas fases
 ## Rol
 ### - Cerebro
 
-<img src="https://cdn-icons-png.flaticon.com/512/3576/3576226.png " width="50px">
+<img src="https://cdn-icons-png.flaticon.com/512/3576/3576226.png" width="50px">
 
 - **Contribución**
 
