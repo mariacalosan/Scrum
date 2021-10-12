@@ -103,11 +103,13 @@ en la metodología ágil se incluye la retrospectiva, esta trata de q
 
 2. **Eficiencia y calidad** siempre se consiente de que entregas y como lo entregas procura estar siempre muy atento con los servicios que ofrecemos sean eficientes y de muy buena calidad para que nuestros clientes se encuentre satisfechos con los productos o servicio que le estemos ofreciendo 
 
-![mejora continua](https://www.ecured.cu/images/5/5d/MejoraContinua.JPG)
+<img src="https://www.ecured.cu/images/5/5d/MejoraContinua.JPG" width="50%">
+
 
 # Tres pilares que tiene scrum que soporta toda la implementación de los procesos
 
-![mejora continua](https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Pilares.jpg)
+<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Pilares.jpg" width="50%">
+
 
 **Transparencia**
 
@@ -142,11 +144,130 @@ ese periodo de tiempo es utilizado para
 - **Administrar**
 - **Optimizar un determinado problema**
 
-# Trabajo en equipo
+# Características de un equipo de trabajo
+
+## Ventajas
+- **Satisfacción**
+- **Calidad**
+- **Sinergia**
+
 ## Desventajas
-- **El conformismo**
+- **Conformismo**
 - **Tiempo**
 - **Lento**
+
+# Fases de un equipo de trabajo
+
+Es muy importante tener en cuenta que todos los equipos pasaran por estas fases
+
+- **Orientación**
+- **Insatisfacción**
+- **Resolución**
+- **Producción**
+- **Finalización**
+
+```Una de las etapas más importantes que pasaran como equipo es la insatisfacción, ya que en el proceso se sentirán perdidos o desmotivados para este tipo de situación se recomienda ir buscando soluciones que ayuden al equipo a salir de esa fase para poder pasar ala fase de resolucion ```
+
+# Roles positivos dentro de el equipo
+
+## Rol
+### - Cerebro
+
+<img src="https://cdn-icons-png.flaticon.com/512/3576/3576226.png " width="50px">
+
+- **Contribución**
+
+Creativo e imaginativo poco ortodoxo y es capaz de resolver los problemas difíciles
+
+- **Debilidad permitida**
+
+Ignora los incidentes es demasiado absorto en sus pensamientos como para tener una buena comunicación eficaz
+
+### - Coordinador
+
+<img src="https://cdn-icons-png.flaticon.com/512/3048/3048122.png" width="50px">
+
+- **Contribución**
+
+Es una persona muy madura segura de sí misma tiene muy claras las metas que desea alcanzar promueve la toma de las decisiones y delega muy bien los trabajos
+
+- **Debilidad permitida**
+
+Se puede percibir que es muy manipulador y tiende a descargarse de su trabajo personal
+
+### - Monitor evaluador
+
+<img src="https://cdn-icons-png.flaticon.com/512/2643/2643516.png" width="50px">
+
+- **Contribución**
+
+Serio es muy perspicaz y estratega percibe todas las opciones
+
+- **Debilidad permitida**
+
+Carece de iniciativa propia y habilidad para inspirar a los demás
+
+### - Implementador
+<img src="https://cdn-icons.flaticon.com/png/512/2199/premium/2199980.png?token=exp=1634079588~hmac=6b63fcb747106c649bf672ad09c2aed0" width="50px">
+
+- **Contribución**
+
+Disciplinado, leal, conservador y muy eficiente es capaz de transformar la ideas en acciones
+- **Debilidad permitida**
+
+Inflexible en cierta medida lento en responder a nuevas posibilidades
+
+### - Finalizador
+<img src="https://cdn-icons-png.flaticon.com/512/3602/3602573.png" width="50px">
+
+- **Contribución**
+
+Esmerado ansioso busca los errores y las omisiones realiza las tareas en el plazo establecido
+- **Debilidad permitida**
+
+Tiende a preocuparse excesivamente regio a delegar
+
+### - Investigador de recursos
+<img src="https://cdn-icons-png.flaticon.com/512/2472/2472702.png" width="50px">
+
+- **Contribución**
+
+Contribución,  extrovertida, entusiasta y comunicativo siempre está en busca de nuevas oportunidades
+- **Debilidad permitida**
+
+Demasiado optimista pierde el interés una vez el entusiasmo se inicie a perder 
+### - Impulsor
+<img src="https://cdn-icons-png.flaticon.com/512/4064/4064267.png" width="50px">
+
+- **Contribución**
+
+Retador, dinámico  trabaja muy bien estando bajo presión suele tener mucha iniciativa propia 
+- **Debilidad permitida**
+
+Propenso a provocar un  problema puede ofender alas personas que se encuentren a su alrededor 
+### - Cohesionador
+<img src="https://cdn-icons-png.flaticon.com/512/1534/1534938.png" width="50px">
+
+- **Contribución**
+
+Cooperador, apacible, perceptivo y muy diplomático escucha e impide los enfrentamientos 
+- **Debilidad permitida**
+
+Es muy indeciso en situaciones cruciales 
+### - Expecialista
+<img src="https://cdn-icons.flaticon.com/png/512/3252/premium/3252624.png?token=exp=1634081464~hmac=bd3b115d00bc0f0d95c94c9586299c90" width="50px">
+
+- **Contribución**
+
+Solo le interesa una cosa a tiempo aporta cualidades y conocimientos específicos 
+- **Debilidad permitida**
+
+Contribuye solo cuando se trata de un tema en el que tenga mucho conocimiento y es muy técnico 
+
+
+
+
+
 
 
 
