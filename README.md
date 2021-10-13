@@ -264,6 +264,33 @@ Solo le interesa una cosa a tiempo aporta cualidades y conocimientos específico
 
 Contribuye solo cuando se trata de un tema en el que tenga mucho conocimiento y es muy técnico 
 
+# Comportamiento de apoyo como líder
+```Hay que romper el paradigma de líder autoritario```
+
+Como líder tenemos cuatro fases cada una muy importante
+
+- **asesoramiento**
+
+Como líder es importante que reforcemos la motivación del equipo, da mayor autonomía en la toma de decisiones, reconoce los logros que sé alcanzan en el equipo cuando inicies a delegar hazlo de a poca asta llegar al punto donde el equipo ya pueda abarcar trabajo más grande
+procura que tus responsabilidades como líder sean pocas para que no vaya a generar discordia en el equipo y por último fomenta la libre expresión de tu equipo
+- **supervisión**
+
+Requiere un uso intenso de los comportamientos  de trabajo  
+define las metas  para hacer  las más realistas y seguras de fomentar 
+fomenta al grupo en sus habilidades de trabajo como equipo 
+recabar las opiniones de todos escucha y manifiéstales que todos tiene el mismo poder  de decisión 
+
+- **delegación**
+
+Como grupo tiene la capacidad de funcionar de modo autónomo, como líder debes de delegar  de ir empezando a abordar otras funciones 
+- **control**
+
+Proporciona información para aclarar las tareas como grupo tener en cuenta que no se toman decisiones sin antes aclarar los objetivos 
+
+# Retro alimentacion efectiva
+<img src="https://cdn-icons-png.flaticon.com/512/1256/1256650.png" width="70px">
+
+
 
 
 
