@@ -290,6 +290,30 @@ Proporciona información para aclarar las tareas como grupo tener en cuenta que 
 # Retro alimentacion efectiva
 <img src="https://cdn-icons-png.flaticon.com/512/1256/1256650.png" width="70px">
 
+Es necesario que se haga este tipo de retroalimentación, ya que esto ayudara a que haya mejores resultados en el equipo
+
+### Reglas para una buena retroalimentación sana
+
+- ## Descriptiva
+Describe el comportamiento sobre el cual quieres dar la retroalimentación no describas a la persona, eso está mal y tu equipo lo tomara de muy mala manera
+
+- ## Aplicable
+Ten en cuenta lo que vayas a decir a esta persona se sienta cómoda de aplicarlo sin que se vaya a sentir que es una obligación, y sé muy realista con las metas a lograr no pidas  algo que posiblemente puede ser inalcanzable
+
+- ## Da retroalimentación positiva
+Siempre empieza identificando un comportamiento positivo y después si llega a tocar el problema que se está presentando con muy buena actitud y comunicacion 
+
+- ## Concreto
+Sé muy concreto con lo que pidas para qué la persona ala  que le estés haciendo la retroalimentación no se vaya a sentir confundido
+
+- ## Oportuna
+Siempre intenta dar la retroalimentación de una manera muy oportuna 
+
+- ## Directo
+Como líder que eres tienes que ser muy directo al hablar con las personas y no dejes pasar los momentos para  decir las cosas 
+
+
+
 
 
 
