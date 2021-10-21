@@ -1,9 +1,14 @@
 ```  notas acerca de SCRUM ```
 
+<img src="https://cdn-icons-png.flaticon.com/512/3983/3983390.png" width="70px">
+
 ### ¿cómo nace SCRUM?
 Este surgió debido a que muchos desarrolladores estaban presentando muchos problemas porque aún estaban utilizando para el desarrollo el *modelo de cascada*.
 
-**¿Qué es el modelo de cascada?**  el modelo de cascada trata de que hay cinco procesos en el desarrollo
+**¿Qué es el modelo de cascada?**
+
+
+el modelo de cascada trata de que hay cinco procesos en el desarrollo
 
 - Análisis 
 - Planeación
@@ -14,6 +19,9 @@ Este surgió debido a que muchos desarrolladores estaban presentando mu
 pero este proceso les dificultaba mucho el poder  regresar a hacer algún tipo de cambio en cualquiera de los procesos ya realizados entonces vieron que no es para nada útil a la hora de trabajar y de ese problema que surgió nace otra metodologia llamada *manifisto agil*.
 
 **¿Que es un manifiesto agil?**
+
+
+
 El manifiesto es la declaración del propósito más clara y concisa la cual maneja cuatro valores que son 
 
 - Individuos he interacciones -> Procesos y herramientas
@@ -36,6 +44,7 @@ El manifiesto es la declaración del propósito más clara y concisa 
 La visión de ágil es que los cambios siempre mejoran los proyectos a demás de eso le proporcionan un valor adicional 
 
 # Los doce principios ágiles 
+
 Estos principios describen la cultura en la cual el cambio es bienvenido y el trabajo va más enfocado en el cliente
 
 1. **Satisfacer al cliente**
@@ -103,12 +112,12 @@ en la metodología ágil se incluye la retrospectiva, esta trata de q
 
 2. **Eficiencia y calidad** siempre se consiente de que entregas y como lo entregas procura estar siempre muy atento con los servicios que ofrecemos sean eficientes y de muy buena calidad para que nuestros clientes se encuentre satisfechos con los productos o servicio que le estemos ofreciendo 
 
-<img src="https://www.ecured.cu/images/5/5d/MejoraContinua.JPG" width="50%">
+<img src="https://www.ecured.cu/images/5/5d/MejoraContinua.JPG" width="30%">
 
 
 # Tres pilares que tiene scrum que soporta toda la implementación de los procesos
 
-<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Pilares.jpg" width="50%">
+<img src="https://scrumorg-website-prod.s3.amazonaws.com/drupal/inline-images/Pilares.jpg" width="30%">
 
 
 **Transparencia**
@@ -311,6 +320,88 @@ Siempre intenta dar la retroalimentación de una manera muy oportuna 
 
 - ## Directo
 Como líder que eres tienes que ser muy directo al hablar con las personas y no dejes pasar los momentos para  decir las cosas 
+
+# Roles y sus responsabilidades
+
+### Master y responsabilidades
+## Scrum master
+Este rol es muy importante, es el responsable de asegurar que el scrum sea entendido y adoptado, asegurando que el equipo de trabajo se ajuste a la teoría, práctica y reglas que se manejan
+
+Los scrum master son personas que lideran al equipo y están al servicio, ellos son muy conocidos por que ayudan a las personas externas de el equipo a entender cómo es la interacción con el scrum si puede ser de ayuda en el proceso que se esté manejando, los Scrum master ayudan a modificar las interacciones
+## ```tareas que realiza un scrum master```
+<img src="https://cdn-icons.flaticon.com/png/512/3316/premium/3316448.png?token=exp=1634830837~hmac=3c0822f8324152c09caad3531beed28d" width="70px">
+
+## Scrum master a el servicio de el dueño de el producto
+- encontrar técnicas para gestionar la lista de productos, ayuda a el equipo a entender la lista de productos
+- Entiende la planificación de la lista de  productos
+- asegurarse que el dueño conozca cómo ordenar  la lista de productos
+- entiende y practica la agilidad
+- facilita los eventos en Scrum
+## Servicio a el equipo de desarrollo
+- Guia en ser autoorganizados y multifuncionales
+- ayuda a crear productos de alto valor
+- elimina impedimentos para el progreso
+- facilita los eventos de Scrum
+## Servicio a la organización
+- liderar y guíar a la organización
+- planificar las implementaciones de scrum
+- ayuda a los empleados a entender scrum
+- motivar los cambios para mejores resultados
+- trabajar con otros scrum master
+
+## Product owner(Dueño de el producto)
+<img src="https://cdn-icons-png.flaticon.com/512/4805/4805644.png" width="70px">
+
+Es el responsable de maximizar  el valor del producto y del trabajo del equipo, como dueño del producto es el único responsable de gestionar la lista de productos
+
+## ```gestión de la lista de productos(Product backlog)```
+- expresar claramente  los elementos del producto
+- ordenar los elementos para alcanzar los objetivos establecidos
+- optimizar el valor de trabajo que desempeña un equipo
+- asegurar que la lista de productos sea visible para todo el equipo
+
+como dueño él podría hacer el trabajo solo o delegar parte de el trabajo, pero sin embargo el dueño sigue siendo el único responsable del trabajo
+
+## ```Para que el dueño del producto pueda hacer bien su trabajo ```
+- la organización debe de respetar sus decisiones y opiniones
+- las decisiones que tome se verán reflejadas en el producto
+- no es permitido que haya un trabajo en base a requerimientos diferentes a los establecidos
+## Ciclo de vida de el producto(product life cycle
+<img src="https://cdn-icons.flaticon.com/png/512/4465/premium/4465673.png?token=exp=1634837559~hmac=f8337d72c23a92f33cd066b26465b5c6" width="50px">
+
+para entender el ciclo del producto tenemos que ver las cuatro etapas que este tiene, las cuales tiene un significado muy diferente para las empresas que tratan de administrar el ciclo de vida
+## ```variables principales y ciclo del producto```
+- venta
+- tiempo
+
+### fase 1
+- la introducción
+
+esta fase es la que apenas se esta metiendo un producto en el mercado donde las ganancias son bajas y no tiene tanto reconocimiento en esta fase es importante siempre hacer estrategias para que el producto pueda generar un muy buen impacto entre las personas
+### fase 2
+- crecimiento
+
+en esta fase ya podemos ver las ganancias y el reconocimiento que se está ganando el producto por parte de las personas
+### fase 3
+- madurez
+
+el producto ya genera aún más ganancias y ya ha ganado más reconocimiento
+### fase 4
+- declive
+
+esta fase es la más peligrosa ya el producto tiene demasiado reconocimiento y la tecnología ha evolucionado aún más y cada vez más la competencia maneja productos similares a el nuestro o iguales
+para que en esta fase no vaya a ver una caída completa del producto lo que se debe de hacer innovar para que así el producto siempre se mantenga arriba está innovaciones se hacen en la retroalimentación en los sprint
+
+<img src="https://www.twi-global.com/CachedImage.axd?ImageName=Product-Life-Cycle-Diagram.jpg&ImageWidth=800&ImageHeight=611&ImageVersionID=107543&ImageModified=20210621110712" width="30%">
+
+
+
+
+
+
+
+
+
 
 
 
