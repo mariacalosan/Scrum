@@ -217,7 +217,7 @@ Serio es muy perspicaz y estratega percibe todas las opciones
 Carece de iniciativa propia y habilidad para inspirar a los demás
 
 ### - Implementador
-<img src="https://cdn-icons.flaticon.com/png/512/2199/premium/2199980.png?token=exp=1634079588~hmac=6b63fcb747106c649bf672ad09c2aed0" width="50px">
+<img src="https://cdn-icons-png.flaticon.com/512/1728/1728424.png" width="50px">
 
 - **Contribución**
 
@@ -264,7 +264,7 @@ Cooperador, apacible, perceptivo y muy diplomático escucha e impide los enfrent
 
 Es muy indeciso en situaciones cruciales 
 ### - Expecialista
-<img src="https://cdn-icons.flaticon.com/png/512/3252/premium/3252624.png?token=exp=1634081464~hmac=bd3b115d00bc0f0d95c94c9586299c90" width="50px">
+<img src="https://cdn-icons-png.flaticon.com/512/2452/2452211.png" width="50px">
 
 - **Contribución**
 
@@ -329,7 +329,7 @@ Este rol es muy importante, es el responsable de asegurar que el scrum sea enten
 
 Los scrum master son personas que lideran al equipo y están al servicio, ellos son muy conocidos por que ayudan a las personas externas de el equipo a entender cómo es la interacción con el scrum si puede ser de ayuda en el proceso que se esté manejando, los Scrum master ayudan a modificar las interacciones
 ## ```tareas que realiza un scrum master```
-<img src="https://cdn-icons.flaticon.com/png/512/3316/premium/3316448.png?token=exp=1634830837~hmac=3c0822f8324152c09caad3531beed28d" width="70px">
+<img src="https://cdn-icons-png.flaticon.com/512/1253/1253665.png" width="70px">
 
 ## Scrum master a el servicio de el dueño de el producto
 - encontrar técnicas para gestionar la lista de productos, ayuda a el equipo a entender la lista de productos
@@ -367,7 +367,7 @@ como dueño él podría hacer el trabajo solo o delegar parte de el trabajo, per
 - las decisiones que tome se verán reflejadas en el producto
 - no es permitido que haya un trabajo en base a requerimientos diferentes a los establecidos
 ## Ciclo de vida de el producto(product life cycle
-<img src="https://cdn-icons.flaticon.com/png/512/4465/premium/4465673.png?token=exp=1634837559~hmac=f8337d72c23a92f33cd066b26465b5c6" width="50px">
+<img src="https://cdn-icons.flaticon.com/png/512/4465/premium/4465691.png?token=exp=1634922520~hmac=0a0ecc5119d56d0137254429608f0ca0" width="70px">
 
 para entender el ciclo del producto tenemos que ver las cuatro etapas que este tiene, las cuales tiene un significado muy diferente para las empresas que tratan de administrar el ciclo de vida
 ## ```variables principales y ciclo del producto```
@@ -393,6 +393,40 @@ esta fase es la más peligrosa ya el producto tiene demasiado reconocimiento y l
 para que en esta fase no vaya a ver una caída completa del producto lo que se debe de hacer innovar para que así el producto siempre se mantenga arriba está innovaciones se hacen en la retroalimentación en los sprint
 
 <img src="https://www.twi-global.com/CachedImage.axd?ImageName=Product-Life-Cycle-Diagram.jpg&ImageWidth=800&ImageHeight=611&ImageVersionID=107543&ImageModified=20210621110712" width="30%">
+
+## Scrum developer(equipo de desarrollo)
+<img src="https://cdn-icons.flaticon.com/png/512/3316/premium/3316542.png?token=exp=1634923448~hmac=72f5dbb3805315f36364fcb23a8441a2" width="70px">
+
+este rol consiste en los profesionales que desempeñan el trabajo de entregar un incremento del producto ya finalizado teniendo en cuenta que después de cada sprint potencialmente se puede poner en producción las personas que hacen parte del equipo de desarrollo participan en la creación de ese incremento del producto
+estos equipos de desarrollo son conocidos por ser estructurados y empoderados para organizar y estructurar su propio trabajo,por otra parte está la sinergia la cual optimiza la eficiencia y efectividad
+
+## ```estos equipos se caracterizan por ser```
+- autoorganizados
+- multifacéticos
+- el scrum no reconoce títulos todos son iguales en el desarrollo
+- el scrum no reconoce los sub-equipos
+
+los miembros del equipo puede tener habilidades especializadas pero la responsabilidad siempre cae en el equipo,
+también hay que ver que el tamaño óptimo del equipo es pequeño como para permanecer ágil y puede ser lo suficientemente grande para completar el trabajo
+
+## Stakeholder(parte interesada clave)
+<img src="https://cdn-icons-png.flaticon.com/512/2583/2583245.png" width="70px">
+
+Los dueños de los productos requieren que los stakeholders asistan a la revisión de los scrum sprint
+
+## ```¿Quiénes son esas personas interesadas?```
+una persona externa a el equipo de trabajo scrum con conocimientos específicos que pueden ayudar a el descubrimiento incremental del producto
+
+## ```los stakeholders categorías```
+- usuario-persona que hace uso de el producto
+- Cliente externo-persona que es responsable de pagar el producto para hacer uso del
+
+## ```Personas interesada claves en el scrum```
+estas personas son las que reciben un beneficio financiero directo el cual les ayuda a ganar más dinero o ahorrar el dinero al usar el producto o servicio
+
+
+
+
 
 
 
