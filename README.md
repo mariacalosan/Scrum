@@ -529,6 +529,120 @@ los scrum master son líderes de servicio detrás de este rol hay un patrón de 
 - Principios ágiles
 - Involucrar a el equipo en el diseño
 
+## El sprint planning
+son bloques de tiempo de un mes o menos en el cual se crea un incremento del producto “terminado” utilizable y potencialmente desplegado.
+
+Cada nuevo sprint comienza inmediatamente el sprint anterior finaliza
+
+## Los sprint contiene y consisten en
+- Reunión de planificación de sprint
+- Scrum diarios
+- Trabajo de desarrollo
+- Revisión del sprint
+- Retrospectiva del sprint
+```
+MIentras se esté en un sprint no se realizara cambios debido a que puede afectar a el objetivo ya establecido.
+
+Los objetivos de calidad no disminuyen y el alcance puede ser clarificado y re negociable entre el dueño y el equipo.
+
+Cada sprint puede considerarse un proyecto nuevo con un horizonte no mayor a un mes.
+
+Los sprint habilitan la predictibilidad al asegurar la inspección del progreso en cada mes.
+
+La reunión de planificación de sprint tiene una duración aproximadamente de ocho horas para un sprint de un mes.
+
+El scrum master se asegura que el evento se lleve a cabo y que el equipo entienda el propósito
+```
+
+# Dos preguntas más frecuentes acerca de los sprint
+
+¿Que puede entregarse en un incremento resultante del sprint que comienza?
+
+¿Cómo se conseguirá hacer el trabajo necesario para entregar el incremento?
+
+## Temas
+### 1) ¿Qué puede ser terminado en este sprint?
+
+- El equipo trabaja para proyectar la funcionalidad que se desarrolla durante el sprint
+- El dueño del producto discute el objetivo que se debería lograr en el sprint y los objetivos para el equipo, también se discute el número de elementos de las lista de productos seleccionados para el sprint este depende únicamente de el equipo de desarrollo
+- Solo el equipo de desarrollo puede evaluar que es capaz de logar durante el sprint que está comenzando
+- Después de que se proyecta que elementos de la lista de productos entregar en el sprint el equipo elaborar un objetivo del sprint
+- El objetivo del sprint debería lograrse durante el sprint a través de la implementación de la lista de productos en la cual se va entregar una guía al equipo de desarrollo
+
+### 2)¿Cómo se conseguirá complementar el trabajo logrado?
+Una vez que se ha establecido lo anterior el equipo desarrolló decidirá cómo construir la funcionalidad para formar un incremento de producto
+Los elementos de la lista de productos seleccionados para el sprint más el plan para terminarlo recibe el nombre de
+### Lista de pendientes del sprint
+- El equipo comienza trabajando como convertir los productos en un incremento de el producto funcional
+- En la planificación de los sprint con el equipo se hace una proyección de lo que se puede completar para el sprint que comienza
+- El equipo  se auto organiza para asumir la lista de pendientes del sprint
+- El dueño de el producto puede ayudar a clasificar los elementos de el producto y hacer concesiones
+
+````
+Nota: al final de cada sprint el equipo de trabajo debería ser capaz de explicar a el dueño y a el scrum master como pretenden trabajar como un equipo auto organizado para lograr el objetivo del sprint
+````
+# sprint Refinement
+## Refinamiento
+Es el acto de añadir detalles, estimaciones y orden a los elementos de la lista de productos este es un proceso continuo donde el dueño del producto y el equipo de desarrollo colaboran acerca de los detalles de los elementos de la lista de productos
+- Durante el refinamiento se examina los elementos
+- El equipo scrum decide como y cuando se realiza esta reunión
+- Esta reunión consume m¿no mas de el 10% de la capacidad de el equipo de desarrollo
+- La lista de productos puede actualizarse
+- Los elementos de la lista de productos pueden ser terminadas por el equipo de desarrollo son considerados, preparados o accionables para ser seleccionados en una reunion de planificacion
+- El equipo de desarrollo es responsable de proporcionar todas las estimaciones
+- El dueño de el producto podrá influenciar a el equipo ayudándoles a entender y seleccionar el trabajo comprometido pero las personas que hacen el trabajo son quienes tienen la estimación final
+- El dueño del producto hace seguimiento del trabajo restante al menos en cada revisión de sprint
+
+# Sprint review
+Al Final de cada sprint se lleva a cabo una revisión de sprint review para inspeccionar el incremento del trabajo.
+
+Se muestra algo del trabajo tangible que no se tenía en el anterior revisión.
+
+Se adapta a la lista de producto si fuera necesario durante la revisión del sprint.
+
+El equipo scrum y los Stakeholder hacen la revisión de lo que se hizo durante el sprint.
+
+Dependiendo de cómo resulte la revisión los asistentes colaboran para determinar las siguientes tareas que podrían hacerse para optimizar el valor de negocio.
+
+## tiene como objetivo
+
+- Facilitar la retroalimentación de la información
+- Reunión restringida a un tiempo de cuatro horas para el sprint de un mes
+- El scrum master se asegura que el evento se lleve a cabo y que los asistentes entiendan el propósito
+## los asistentes son
+- El equipo de scrum
+- Los interesados clave
+- El dueño de el producto
+- El dueño del Producto explica que productos de la lista se han terminado y cuáles no
+- El equipo de desarrollo habla sobre salió bien en el sprint y los problemas que surgieron durante el sprint y cómo los resolvieron
+- El equipo de desarrollo muestra el trabajo que ha terminado y responde preguntas acerca del incremento
+- El dueño del producto habla acerca de la lista de productos en el estado en el que se encuentra y proyecta fechas de la finalización probables en el tiempo basándose en el progreso obtenido
+## Los resultados
+- Una lista de productos realizada que define los elementos de la lista de productos posible para el siguiente sprint
+
+# sprint retrospective
+Es una oportunidad para que el equipo scrum se inspeccione así mismo y cree un plan de mejoras
+````
+Nota:
+En las reuniones que se llevan a cabo de retrospectiva, tiene un lugar después de la sprint de revisión y antes del sprint de planificación
+````
+Los scrum master se aseguran que el evento se lleve a cabo y que los asistentes entiendan el propósito
+
+El scrum master enseña a todos a mantener el evento dentro del  bloque de tiempo fijado
+El scrum master participa en la reunión como miembro del equipo
+## Propósitos de la retrospectiva
+- Inspeccionar cómo fue el último sprint en cuanto a las personas,procesos,relaciones y herramientas
+- Identificar y ordenar los elementos más importantes
+- Crear un plan para implementar las mejoras
+- El scrum master alienta a el equipo para que mejore
+- Planifica formas de comentar la calidad del producto
+- Identificar  mejoras que se puedan implementar en el próximo sprint
+
+
+
+
+
+
 
 
 
