@@ -424,6 +424,122 @@ una persona externa a el equipo de trabajo scrum con conocimientos específicos 
 ## ```Personas interesada claves en el scrum```
 estas personas son las que reciben un beneficio financiero directo el cual les ayuda a ganar más dinero o ahorrar el dinero al usar el producto o servicio
 
+# Si quieres llegar hacer un buen scrum master necesitas tener en cuenta las siguientes cualidades
+
+## El saber en el scrum
+- Marcos de trabajo en el scrum
+- Agilidad
+- Otros marcos de trabajo
+- Gestion
+- Desarrollo de productos
+
+## Scrum master como facilitador
+- Entrenar en los marcos ágiles
+- Guiar en la opción de la agilidad
+- Sincronizar las expectativas
+- Remover impedimentos
+- Promover la agilidad
+- Ser un coaching
+
+## Scrum master y la empatía
+- Pasión por lo que se está haciendo
+- Valores scrum
+- Humildad
+- Perseverancia
+- Tolerancia hacia todas las situaciones que vivas como scrum master
+
+## Scrum master ser líder servicial
+- Inspiración
+- Procura ser una persona que genere cambios de forma oportuna y positivos
+- Mediador
+- Desafiador
+- Colaborador
+- Negociador
+- Proactivo
+
+## Scrum master persigue y genera la mejora continua
+- Evolución
+- Cambio
+- Extensión
+- Mejores practiacas
+- Crecimiento personal y profesional
+
+### ```Nota```
+Recordemos que el scrum es fácil de entender pero él llegara dominarlo es lo complicado, como un scrum master que eres o quieres llegar a ser ten encuenta que nunca se para de aprender cada dia hay cosas nuevas
+
+# Cualidades principales de los scrum master
+los scrum master son líderes de servicio detrás de este rol hay un patrón de deberes y responsabilidades
+
+- un líder de servicio no les dice qué hacer si no que les elimina los impedimentos
+- entrena a el equipo para que practiquen unas buenas prácticas
+## Que hace realmente un líder de servicio
+- proteger a el equipo de las desviaciones
+- facilita las secciones de planificación
+- facilita la revisión y retrospectiva
+- Entrenar a el equipo
+- Ayuda a el equipo
+- Aboga por la posición del equipo
+- prevee
+- Elimina los impedimentos
+- Asegura que se realice las paradas diarias
+- Fomenta la transparencia
+- Explica el proceso del equipo
+## Lo Que un líder de servicio no hace
+- diriger qué hacer en el equipo decidiendo qué hacer en su lugar
+- gestionar el stand-up diario
+- estima el trabajo de el equipo
+
+# Competencias y habilidades scrum master
+## competencias concretas de un scrum master y que debería ser tomada en cuenta
+## ```Facilitación efectiva```
+- Dirigir  las reuniones centrada  en resultados
+- No quieres gestionar culpables
+- Ser participante y la ves facilitador
+- Adaptarse a la diferentes situaciones
+- Crear seguridad para el equipo
+- Saber colaborar con diferentes personalidades y perfiles
+- Análisis causa raíz
+
+## ```participación colaborativa ```
+- Mapa de historias
+- Estimación rápida
+- Votación por puntos
+- Planificación visual
+- Reuniones creativas
+## ```Gestión de equipos ```
+- Vinculación
+- Alentar el liderazgo
+- Permitir el error
+- Gestión de deuda técnica
+- Habilidades funcionales
+- Celebrar éxitos
+- Equipo que se apoya mutuamente
+- Una cultura de tribu
+
+## ```Mejora de los miembros de equipo ```
+- Retroalimentación continua
+- Motivación
+- Entrenamiento
+
+## ```Equipos auto organizados ```
+- Ejercer liderazgo de servicio
+- Involucra a todos los miembros del equipo en toma de decisiones importa
+- Valores scrum
+- Involucra a los líderes
+- Principios ágiles
+- Involucrar a el equipo en el diseño
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
