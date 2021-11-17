@@ -638,6 +638,45 @@ El scrum master participa en la reunión como miembro del equipo.
 - Planifica formas de comentar la calidad del producto
 - Identificar  mejoras que se puedan implementar en el próximo sprint.
 
+## Que no es una retrospectiva
+Estas no son secciones de quejas hay que evitarlas lo posible, porque se resultan convirtiendo en un  espacio incómodo y de quejas,  claro esta sin dejar a un lado  de que el equipo deje de expresar sus frustraciones, ten en cuenta que lo más importante es encontrar soluciones y posibles mejoras.
+
+Asegúrate que el resultado de cada discusión sea una idea y centrase en soluciones.
+
+asegurate de que las reuiniones no sean aburridas es muy importante probar diferentes ejecicios y tecnicas de retrospectiva.
+
+## ¿Por qué es importante la retrospectiva?
+El objetivo de la retrospectiva es la mejora continua del equipo
+en este caso el facilitador y la retrospectiva tiene que hacer todo lo posible para que asegurarse que la sección sea valiosa para el equipo esto incluye.
+
+- Planificar la reunión y asegurar que todos los miembros del equipo puedan asistir
+- Preparar la sección
+- Crear un ambiente seguro donde las personas hablen y compartan
+- Tomando notas claras de los "action points"(Un action points es un elemento de acción resultante)
+
+El facilitador es el responsable de llegar a la raíz de los problemas
+- El equipo casi nunca te dirá la causa principal de un problema de inmediato
+- Profundiza para aprovechar al máximo la retrospectiva ágiles
+
+## Etapas de una retrospectiva
+- Preparar el escenario
+
+El entorno debe de ser un espacio  donde se sienta la confianza sin importar lo que se llegue a descubrir debemos de entender que todos hicieron el mejor trabajo que pudieron, establece las regalas que a ti más te parezca acorde, si te parece bien haz algún ejercicio de estiramiento o solo intenta que el equipo cambie un rato el humor y logren llegar a un estado de relajación
+- Recopilar datos
+
+Esto se hace mirando lo que hizo en el paso que salió bien y que no
+- Generar ideas
+
+En esta fase los equipos suelen identificar porque sucedieron las cosas, que se puede hacer más o menos
+
+- Decidir action points
+
+Esto incluye decidir entre acciones específicas, significativas, acordadas y realistas que se  realizaran en el próximo sprint
+
+- Cerrar la retrospectiva
+
+Indicas que la ceremonia ha terminado y por último recuerdas los action points
+
 # Mapeo de  historias de usuario
 Este es un ejercicio visual que ayuda a los dueños del producto y a le equipo a definir  el trabajo para crearle al usuario la experiencia de uso más agradable.
 
