@@ -618,25 +618,56 @@ Dependiendo de cómo resulte la revisión los asistentes colaboran para determin
 - El equipo de desarrollo muestra el trabajo que ha terminado y responde preguntas acerca del incremento
 - El dueño del producto habla acerca de la lista de productos en el estado en el que se encuentra y proyecta fechas de la finalización probables en el tiempo basándose en el progreso obtenido
 ## Los resultados
-- Una lista de productos realizada que define los elementos de la lista de productos posible para el siguiente sprint
+- Una lista de productos realizada que define los elementos de la lista de productos posible para el siguiente sprint.
 
 # sprint retrospective
-Es una oportunidad para que el equipo scrum se inspeccione así mismo y cree un plan de mejoras
+Es una oportunidad para que el equipo scrum se inspeccione así mismo y cree un plan de mejoras.
 ````
 Nota:
-En las reuniones que se llevan a cabo de retrospectiva, tiene un lugar después de la sprint de revisión y antes del sprint de planificación
+En las reuniones que se llevan a cabo de retrospectiva, tiene un lugar después de la sprint de revisión y antes del sprint de planificación.
 ````
-Los scrum master se aseguran que el evento se lleve a cabo y que los asistentes entiendan el propósito
+Los scrum master se aseguran que el evento se lleve a cabo y que los asistentes entiendan el propósito.
 
 El scrum master enseña a todos a mantener el evento dentro del  bloque de tiempo fijado
-El scrum master participa en la reunión como miembro del equipo
+El scrum master participa en la reunión como miembro del equipo.
 ## Propósitos de la retrospectiva
 - Inspeccionar cómo fue el último sprint en cuanto a las personas,procesos,relaciones y herramientas
 - Identificar y ordenar los elementos más importantes
 - Crear un plan para implementar las mejoras
 - El scrum master alienta a el equipo para que mejore
 - Planifica formas de comentar la calidad del producto
-- Identificar  mejoras que se puedan implementar en el próximo sprint
+- Identificar  mejoras que se puedan implementar en el próximo sprint.
+
+# Mapeo de  historias de usuario
+Este es un ejercicio visual que ayuda a los dueños del producto y a le equipo a definir  el trabajo para crearle al usuario la experiencia de uso más agradable.
+
+También es utilizado para mejorar la comprensión de los equipos ala hora de priorizar el trabajo el mapeo de historias los equipos,  crean un esquema dinámico de las interacciones de un usuario con el producto.
+
+El mapeo de historias de usuario comunica los requisitos desde la perspectiva de valor de usuario para validar y contribuir una comprensión compartida de los pasos para crear un producto que amen usar.
+
+```
+Nota: el mapeo de historias se escribe en un formato de captura de valor comercial y estos puedes ser completados dentro de un SPRINT
+```
+## ¿Qué se necesita para crear las historias?
+Es muy útil crear un guion, para la creación de este guion es muy importante tener en cuenta
+
+- Yo como [rol]
+- Quiero [acción]
+- Para que [beneficio]
+
+## ¿Qué beneficio tengo si hago mapeo de historia?
+- Se centra el valor de negocio
+- Priorizar el trabajo correcto
+- Impulsar los requisitos no muy pequeños ni muy grandes
+- Exponer riesgos y dependencias
+- Construye una colaboración
+
+## ¿Quién debe de participar en el mapeo de historias?
+
+El mapeo se caracteriza mucho por ser un ejercicio de colaboración y que ayuda alinear los equipos multifuncionales es por esta razón que cualquier persona que contribuya a la entrega exitosa participa en el mapeo.
+
+
+
 
 
 
