@@ -710,7 +710,38 @@ El mapeo se caracteriza mucho por ser un ejercicio de colaboración y que ayuda 
 
 https://jeronimopalacios.com/scrum-practica/10-herramientas-una-gestion-agil-producto-scrum-kanban/
 
+# el sprint zero
+El objetivo principal de un sprint zero es la producción, pero no se requiere una experiencia para realizar el desarrollo de software como se es requerido en un sprint normal.
 
+## Los entregables de un sprint zero deben de ser los siguientes 
+- Una pieza de código utilizable
+- Un entorno mínimo para poder escribir código
+- Una priorización de características
+- Un plan de lanzamiento
+- Un plan para la implementación
+
+ Ya por último hay que tener en cuenta que algunas organizaciones no necesitan incorporar este enfoque.
+
+Hay algunas empresas que son muy expertas con el sprint, por lo tanto, es posible que tengan conocimientos del enfoque
+
+## Al igual que el sprint,  los  sprint zero deben de seguir las mismas actividades como 
+- Tener un backlog actualizado
+- Sección de planificación
+- Reuniones diarias
+- Revisión de sprint
+- Informe de producto entregable
+
+A diferencia de los sprint normal los sprint zero no deben de durar mas de unos pocos dias.
+
+El principal beneficio de tener un sprint zero es que le permite al equipo tener una idea del trabajo que van a realizar y esto promueve que el equipo se autoorganice, también genera confianza a los miembros del equipo.
+
+El sprint zero busca evitar los obstáculos al ofrecer una oportunidad para planificar un marco de trabajo para lograr  el éxito.
+
+## Para llevar a cabo un buen sprint zero 
+- No te tardes más de una semana 
+- No hagas más de lo que se necesita 
+- Trabajen juntos  como un equipo
+- La planificación previa es importante
 
 
 
