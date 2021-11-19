@@ -743,8 +743,29 @@ El sprint zero busca evitar los obstáculos al ofrecer una oportunidad para plan
 - Trabajen juntos  como un equipo
 - La planificación previa es importante
 
+# áreas del sprint zero 
+El sprint zero se agrupa en cuatro áreas principales que son
+## Gente
+- Tener a tu equipo formado
+- Definir roles y responsabilidades
+- Contar con un organigrama
+## Procesos
+- Establecer el modelo de gobierno del proyecto
+- Acordar cuando serán las reuniones
+- Quien otorgara las autorizaciones
+- Que marco de trabajo se va a trabajar
+## Negocio
+- El stakeholders nos hacen saber que es lo que están buscando
+- Tiempo en el cual espera que se complete el proyecto
+## Tecnología
+- Saber con el lenguaje que se va a trabajar
+- Contar con espacios donde se va a iniciar a construir el código
+- Asegurarse que cuenten con los permisos necesarios
 
+# Estableciendo métricas
+Nuestro proyecto debe de contar con las métricas correctas desde un principio.
 
+Hay métricas que establecerán  negocio para el producto, servicio o solución que se esté construyendo  y métricas que estableceremos nosotros que tienen que ver mejor con las mejores prácticas del scrum  y del desarrollo de software.
 
 
 
