@@ -706,6 +706,12 @@ Es muy útil crear un guion, para la creación de este guion es muy importante t
 El mapeo se caracteriza mucho por ser un ejercicio de colaboración y que ayuda alinear los equipos multifuncionales es por esta razón que cualquier persona que contribuya a la entrega exitosa participa en el mapeo.
 
 
+``` Este es un link en el cual prodan ver algunas herramientas muy utiles para llevar acabo un buen scrum```
+
+https://jeronimopalacios.com/scrum-practica/10-herramientas-una-gestion-agil-producto-scrum-kanban/
+
+
+
 
 
 
